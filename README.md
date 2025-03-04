@@ -10,7 +10,9 @@ This is a tic-tac-toe game AI implemented using Q-learning algorithm. The projec
 - `rl.ipynb`: Jupyter Notebook for training AI, including the training process and Q-table storage.
 - `q_table.pkl`: trained Q table, used to load and test AI in `test.py`.
 
-## Usage ### 1. Train AI 
+## Usage 
+
+### 1. Train AI 
 
 Open `rl.ipynb`  
 Run all cells to rain AI   
